@@ -5,6 +5,9 @@
 - I publish this as an individual within the cyber security community, it is not an official reslease from the vendor.
 - There is a challenge with duplicate events, the vendor logs do not offer a means for UID tracking, I am working on this.
 
+## Splunkbase:
+- Listed as of 2023-09-27, see: https://splunkbase.splunk.com/apps?keyword=NextDNS
+
 ## Setup
 - This is the 'TA' which should be installed on your UF, HF, IDX.
 - There is a APP which should be deployed to your SH that has useful dashboards and searches.
