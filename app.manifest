@@ -50,5 +50,5 @@
   "targetWorkloads": [
     "_indexers"
     "_forwarders"
-  }
+  ]
 }
