@@ -48,7 +48,7 @@
     "_distributed"
   ],
   "targetWorkloads": [
-    "_indexers"
+    "_indexers",
     "_forwarders"
   ]
 }
